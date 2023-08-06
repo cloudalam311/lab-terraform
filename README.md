@@ -1,2 +1,2 @@
 # lab-terraform
-This is test
+This is test ok
