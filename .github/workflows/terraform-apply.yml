@@ -14,7 +14,7 @@ env:
 
 jobs:
   terraform:
-    if: github.repository != 'hashicorp-cloudalam311/-lab-github-actions'
+    if: github.repository != 'hashicorp-cloudalam311/lab-terraform'
     name: "Terraform Apply"
     runs-on: ubuntu-latest
     permissions:
